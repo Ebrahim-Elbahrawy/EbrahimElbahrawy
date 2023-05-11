@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/EbrahimElbahrawy.github.io/static/css/main.d48ca9b8.css",
-    "main.js": "/EbrahimElbahrawy.github.io/static/js/main.2ac3eaaa.js",
-    "static/js/787.4b7a5369.chunk.js": "/EbrahimElbahrawy.github.io/static/js/787.4b7a5369.chunk.js",
-    "index.html": "/EbrahimElbahrawy.github.io/index.html",
-    "main.d48ca9b8.css.map": "/EbrahimElbahrawy.github.io/static/css/main.d48ca9b8.css.map",
-    "main.2ac3eaaa.js.map": "/EbrahimElbahrawy.github.io/static/js/main.2ac3eaaa.js.map",
-    "787.4b7a5369.chunk.js.map": "/EbrahimElbahrawy.github.io/static/js/787.4b7a5369.chunk.js.map"
+    "main.css": "/Cv/static/css/main.d48ca9b8.css",
+    "main.js": "/Cv/static/js/main.49f9df31.js",
+    "static/js/787.4b7a5369.chunk.js": "/Cv/static/js/787.4b7a5369.chunk.js",
+    "index.html": "/Cv/index.html",
+    "main.d48ca9b8.css.map": "/Cv/static/css/main.d48ca9b8.css.map",
+    "main.49f9df31.js.map": "/Cv/static/js/main.49f9df31.js.map",
+    "787.4b7a5369.chunk.js.map": "/Cv/static/js/787.4b7a5369.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d48ca9b8.css",
-    "static/js/main.2ac3eaaa.js"
+    "static/js/main.49f9df31.js"
   ]
 }
